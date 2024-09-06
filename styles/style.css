@@ -22,14 +22,16 @@ article {
   align-items: center;
   justify-content: flex-end;
   width: 50vw;
-  max-width: 25em;
-  min-width: 20em;
+  max-width: 50em;
+  min-width: 30em;
   border-radius: 1rem;
   background: #abb8d4;
   background: linear-gradient(0deg, #abb8d4 40%, #688db5 100%);
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
-  transition: .25s;
+  box-shadow: 0 0 100px 150px rgba(0,0,0,.1);
+  transition: .45s;
 }
+/*Ik heb de min-width & max-width aangepast Om de kaart een beetje breder te maken */
+/*Ik heb de box-shadow blauwe aangepast om de visitekaart meer diepte te geven */
 
 header {
   display: flex;
