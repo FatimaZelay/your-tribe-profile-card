@@ -12,7 +12,7 @@ body {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #ffeaba;
+  color: #abb8d4;
 }
 
 article {
@@ -25,8 +25,8 @@ article {
   max-width: 25em;
   min-width: 20em;
   border-radius: 1rem;
-  background: #e49cb4;
-  background: linear-gradient(0deg, #e49cb4 40%, #a06cb6 100%);
+  background: #abb8d4;
+  background: linear-gradient(0deg, #abb8d4 40%, #688db5 100%);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.1);
   transition: .25s;
 }
@@ -41,7 +41,7 @@ header {
 
 h1 {
   margin: 2rem 0 1rem;
-  color: rgba(0,239,255,1);
+  color: rgb(255, 255, 255);
 }
 
 button {
@@ -53,7 +53,7 @@ button {
   padding: .25rem;
   border: none;
   border-radius: 50%;
-  background: rgba(0,239,255,1);
+  background: rgb(255, 255, 255);
   transform: scale(.8);
   transition: .25s;
 }
@@ -171,3 +171,7 @@ body.expand dd {
 body.expand img {
   width: 15em;
 }
+
+
+
+
